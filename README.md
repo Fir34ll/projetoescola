@@ -1,4 +1,4 @@
-Trabalhei em fazer um projeto organizado incluindo banco de dados do firebase em tempo real, que são armazenados em nuvem também. (Linguagem phython)
+Trabalhei em fazer um projeto organizado incluindo banco de dados do firebase em tempo real, que são armazenados em nuvem também (Linguagem phython). É possivel inserir, editar, excluir.
 
 Neste print mostro a relação entre os dados e uma nova implementação de aluno sera feita.
 
